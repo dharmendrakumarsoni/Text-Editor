@@ -5,5 +5,12 @@ Text Editor built using Java and GUI made by using Java swing library. This is a
 
 
 
-## Project Snips:
+## Project snips:
 
+![Screenshot (206)](https://github.com/dharmendrakumarsoni/Text-Editor/assets/136853362/f9222a71-ec81-4a50-a6fc-e9cfb679ff83)
+
+![Screenshot (205)](https://github.com/dharmendrakumarsoni/Text-Editor/assets/136853362/c94a1d29-b127-406a-b0fe-ca05aa28b2dc)
+
+![Screenshot (210)](https://github.com/dharmendrakumarsoni/Text-Editor/assets/136853362/ccf428e5-f70a-4714-87cf-18060cbdf72f)
+
+![Screenshot (209)](https://github.com/dharmendrakumarsoni/Text-Editor/assets/136853362/136af75b-5eb4-4700-b53a-3c19974e3332)
